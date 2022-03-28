@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HBRevit2022CompatabilityDemo", "HBRevit2022CompatabilityDemo\HBRevit2022CompatabilityDemo.csproj", "{89BF9B16-54C3-4FAE-842D-0925F60EB163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HbToolbar.Common", "HbToolbar.Common\HbToolbar.Common.csproj", "{F546C095-B44A-4358-A79A-D49F27C95324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HbToolbar.Compatibility", "HbToolbar.Compatibility\HbToolbar.Compatibility.csproj", "{6062FD36-6832-44CB-AC23-EF71E0C2BDD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug2019|Any CPU = Debug2019|Any CPU
+		Debug2022|Any CPU = Debug2022|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89BF9B16-54C3-4FAE-842D-0925F60EB163}.Debug2019|Any CPU.ActiveCfg = Debug2019|Any CPU
+		{89BF9B16-54C3-4FAE-842D-0925F60EB163}.Debug2019|Any CPU.Build.0 = Debug2019|Any CPU
+		{89BF9B16-54C3-4FAE-842D-0925F60EB163}.Debug2022|Any CPU.ActiveCfg = Debug2022|Any CPU
+		{89BF9B16-54C3-4FAE-842D-0925F60EB163}.Debug2022|Any CPU.Build.0 = Debug2022|Any CPU
+		{89BF9B16-54C3-4FAE-842D-0925F60EB163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BF9B16-54C3-4FAE-842D-0925F60EB163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F546C095-B44A-4358-A79A-D49F27C95324}.Debug2019|Any CPU.ActiveCfg = Debug2019|Any CPU
+		{F546C095-B44A-4358-A79A-D49F27C95324}.Debug2019|Any CPU.Build.0 = Debug2019|Any CPU
+		{F546C095-B44A-4358-A79A-D49F27C95324}.Debug2022|Any CPU.ActiveCfg = Debug2022|Any CPU
+		{F546C095-B44A-4358-A79A-D49F27C95324}.Debug2022|Any CPU.Build.0 = Debug2022|Any CPU
+		{F546C095-B44A-4358-A79A-D49F27C95324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F546C095-B44A-4358-A79A-D49F27C95324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6062FD36-6832-44CB-AC23-EF71E0C2BDD0}.Debug2019|Any CPU.ActiveCfg = Debug2019|Any CPU
+		{6062FD36-6832-44CB-AC23-EF71E0C2BDD0}.Debug2019|Any CPU.Build.0 = Debug2019|Any CPU
+		{6062FD36-6832-44CB-AC23-EF71E0C2BDD0}.Debug2022|Any CPU.ActiveCfg = Debug2022|Any CPU
+		{6062FD36-6832-44CB-AC23-EF71E0C2BDD0}.Debug2022|Any CPU.Build.0 = Debug2022|Any CPU
+		{6062FD36-6832-44CB-AC23-EF71E0C2BDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6062FD36-6832-44CB-AC23-EF71E0C2BDD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78EAC19C-D66D-4236-A74B-19DFE8274CB0}
+	EndGlobalSection
+EndGlobal
